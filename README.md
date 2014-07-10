@@ -6,8 +6,6 @@ Finds unused images in a FrameMaker project folder.
 What the program does:
  - Lets FrameMaker users quickly find all images in their project folder that are
 no longer used and can be deleted from their computer and/or source control.
-(Right now my team does this using an annoying combination of a batch file and
-a slow Excel file.)
 
 How it does it:
 - It assumes you have a folder with all of a book's images in it, and that this
